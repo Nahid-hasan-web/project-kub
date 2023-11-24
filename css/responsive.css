@@ -1,0 +1,94 @@
+@media (max-width: 575.98px) { 
+/* ------------------ menu part start-------------------- */
+.main_menu  ul{     
+     background: #28b8d8;
+     border-radius: 10px;
+     gap: 0px;
+}
+.main_menu  ul li{
+    border:  1px solid #000;
+}
+.main_menu  ul li a{
+    text-align:center;
+}
+.navbar-toggler {
+    color: #28b8d8;
+}
+
+.navbar-toggler:focus {
+    box-shadow: #28b8d8 0px 1px 4px, #28b8d8 0px 0px 0px 3px;
+}
+
+/* ------------------- menu part end ---------------------- */
+/* ------------------ banner part start-------------------- */
+#banner {
+    padding-top: 165px;
+    padding-bottom: 150px;
+}
+/* ------------------- banner part end ---------------------- */
+/* ------------------ about  part start-------------------- */
+.about_row .about_text_col h5 {
+    width: 100%;
+}
+.about_row .about_text_col p {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: var(--roboto);
+    color: #666666;
+}
+.about_row {
+    flex-wrap: wrap;
+}
+.prot_services ul li p {
+    width: 100%;
+}
+/* ------------------- about  part end ---------------------- */
+ }
+ @media (min-width: 576px) and (max-width: 767.98px) {
+/* ------------------ menu part start-------------------- */
+.main_menu  ul{     
+    background: #28b8d8;
+    border-radius: 10px;
+    gap: 0px;
+}
+.main_menu  ul li{
+   border:  1px solid #000;
+}
+.main_menu  ul li a{
+   text-align:center;
+}
+.navbar-toggler {
+   color: #28b8d8;
+}
+
+.navbar-toggler:focus {
+   box-shadow: #28b8d8 0px 1px 4px, #28b8d8 0px 0px 0px 3px;
+}
+
+/* ------------------- menu part end ---------------------- */
+/* ------------------ banner part start-------------------- */
+#banner {
+   padding-top: 165px;
+   padding-bottom: 150px;
+}
+/* ------------------- banner part end ---------------------- */
+/* ------------------ about  part start-------------------- */
+.about_row .about_text_col h5 {
+   width: 100%;
+}
+.about_row .about_text_col p {
+   width: 100%;
+   font-size: 14px;
+   font-weight: 400;
+   font-family: var(--roboto);
+   color: #666666;
+}
+.about_row {
+   flex-wrap: wrap;
+}
+.prot_services ul li p {
+   width: 100%;
+}
+/* ------------------- about  part end ---------------------- */
+ }
